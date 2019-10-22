@@ -1,0 +1,7 @@
+[Desktop Entry]
+Type=Application
+X-Nemo-Application-Type=silica-qt5
+Icon=calc-example
+Exec=calc-example
+Name=Calc Example
+Name[ru]=Пример калькулятора
